@@ -3,27 +3,6 @@ Welcome to my project portfolio!👋
 
 Here you will find a selection of academic and personal projects developed as part of my degree in Data Science & Engineering and my independent learning. Each project repository contains source code, documentation, and a detailed technical report for deeper insights.  
 
-## 🛠️ Tech Stack
-### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
-
-### Data Engineering & MLOps
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-333333?style=flat&logo=deltalake&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-
-### Data Science
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
-
----
 ## 🚀 Main Projects
 
 | Repository | Tech Stack | Description |
@@ -38,6 +17,8 @@ Here you will find a selection of academic and personal projects developed as pa
 | [**Geographic Route Mapping**](https://github.com/lucasviner/Geographic-Route-Mapping-and-Medieval-Monuments-Routing) | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Graphs](https://img.shields.io/badge/-Graph%20Theory-purple?style=flat) | Graph-based routing and geographic data processing project, focusing on efficient path computation. |
 | [**Cities and Roads Strategy Game**](https://github.com/lucasviner/Cities-and-Roads-Strategy-Game-Simulation) | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Simulation](https://img.shields.io/badge/-Simulation-orange?style=flat) | Simulation project modeling interactions between cities and infrastructure, emphasizing system dynamics and decision logic. |
 
+---
+
 ## 📫 Contact
 
 If you'd like to get in touch, collaborate, or have any questions:
@@ -48,11 +29,7 @@ If you'd like to get in touch, collaborate, or have any questions:
 
 ---
 
----
-
 ## 📣 Stay Tuned
 
 More projects and updates are coming soon.  
 **Star** this repository to stay updated or [follow me](https://github.com/lucasviner) on GitHub!
-
----
