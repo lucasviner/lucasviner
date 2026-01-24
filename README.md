@@ -3,6 +3,11 @@ Welcome to my project portfolio!👋
 
 Here you will find a selection of academic and personal projects developed as part of my degree in Data Science & Engineering and my independent learning. Each project repository contains source code, documentation, and a detailed technical report for deeper insights.  
 
+## 🛠️ Tech Stack
+**Languages:** ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql)
+**Engineering:** ![Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apachespark) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apacheairflow) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+**Data Science:** ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
+
 ## Main Projects
 
 | Repository                                                                                                    | Description                                |
