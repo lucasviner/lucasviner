@@ -23,7 +23,6 @@ Here you will find a selection of academic and personal projects developed as pa
 
 If you'd like to get in touch, collaborate, or have any questions:
 
-- **GitHub:** [lucasviner](https://github.com/lucasviner)
 - **Email:** lucasviner@gmail.com  
 - **LinkedIn:** [Lucas Viner](https://www.linkedin.com/in/lucas-viner)
 
